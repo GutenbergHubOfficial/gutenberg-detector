@@ -25,3 +25,13 @@ Once the plugin is activated, you will see a new column labeled "Gutenberg Edito
 ## License
 
 This project is licensed under the GPL2 License - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer and Support
+
+This plugin was generated using OpenAI's ChatGPT, a language model developed by OpenAI. It is provided as-is, and while we believe it to be useful, we do not offer any support or guarantees for its functionality.
+
+Please note that while the plugin has been designed to work with WordPress, it has not been extensively tested across all versions or potential use cases. As such, it should be used with caution and tested thoroughly in your specific environment before deploying it to a live site.
+
+**Use this plugin at your own risk.** We are not responsible for any issues or damages that may arise from its use. If you encounter any problems or have any suggestions for improvements, feel free to open an issue in this repository. However, please be aware that we may not be able to provide any further updates or support.
+
+Always remember to backup your site before installing new plugins or making changes to existing ones.
