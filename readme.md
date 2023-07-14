@@ -18,6 +18,8 @@ The Gutenberg Detector uses WordPress's built-in `has_blocks` function to check 
 
 ## Usage
 
+<img width="1440" alt="Screenshot 2023-07-14 at 5 18 51 PM" src="https://github.com/GutenbergHubOfficial/gutenberg-detector/assets/48084051/5aa9d037-c37d-49fe-9ee9-17b11610515d">
+
 Once the plugin is activated, you will see a new column labeled "Gutenberg Editor" in your posts and pages tables in the WordPress admin area. This column will display "Yes" if the post or page was created with the Gutenberg editor and "No" otherwise.
 
 ## License
